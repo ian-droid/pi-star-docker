@@ -1,0 +1,8 @@
+[Pi-Star]
+Pi-Star_Build_Date = 18-Dec-2019
+Version = 0.1
+ircddbgateway = N/A	
+dstarrepeater = N/A
+MMDVMHost = ed7f593
+kernel = 4.19.0-6-arm64
+Hardware = docker
